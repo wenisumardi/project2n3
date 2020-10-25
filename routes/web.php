@@ -36,3 +36,26 @@ Route::get('/produk', function () {
 Route::get('/produkditel', function () {
     return view('store.produkditel');
 });
+
+Route::get('/base', function () {
+    return view('admin.base');
+});
+Route::get('/berandaadmin', function () {
+    return view('admin.berandaadmin');
+});
+
+Route::get('/produk', function () {
+    return view('admin.produk');
+});
+Route::get('/kategori', function () {
+    return view('admin.kategori');
+});
+Route::get('/loginadmin', function () {
+    return view('admin.loginadmin');
+});
+Route::get('/registeradmin', function () {
+    return view('admin.registeradmin');
+});
+Route::get('/promo', function () {
+    return view('admin.promo');
+});
