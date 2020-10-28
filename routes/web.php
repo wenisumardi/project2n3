@@ -29,8 +29,8 @@ Route::get('/register', function () {
     return view('store.register');
 });
 
-Route::get('/produk', function () {
-    return view('store.produk');
+Route::get('/produkecommerce', function () {
+    return view('store.produkecommerce');
 });
 
 Route::get('/produkditel', function () {

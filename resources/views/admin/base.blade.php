@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-<title>Esteem  An Admin Panel Category Flat Bootstrap Responsive Website Template | Blank  :: w3layouts</title>
+<title>Wens Store</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -81,7 +81,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 <!-- banner -->
 <!--copy rights start here-->
-@include('admin.section.footer')	
+	
 <!--copy rights end here-->
 <!-- js -->
 
